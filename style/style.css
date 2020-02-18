@@ -1,0 +1,24 @@
+body {
+	font-family: "Helvetica", "Arial", sans-serif;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	height: 100%;
+}
+.container {
+	display: block;
+	width: 80%;
+	max-width: 1024px;
+	margin: 50px auto;
+}
+.user-info,
+.foto {
+	width: 40%;
+}
+.none-style {
+	list-style:none;
+}
+pre {
+	background: #CCCCCC;
+}
