@@ -2,7 +2,7 @@
 
 ### Contacts
 
-mail -  loisopondoxvq13@gmail.com
+mail -  loisopondoxva13@gmail.com
 
 tel. -  +7 905 6646604
 
